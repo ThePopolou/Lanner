@@ -26,3 +26,16 @@ Modified Bios file includes the following unlocks uinder the IntelRCSetup menu: 
 - Miscellaneous Configuration
 
 These appliances are dual CPU systems with the [Intel E5-2600 v3/v4](https://ark.intel.com/content/www/us/en/ark/products/series/59138/intel-xeon-processor-e5-family.html) (Haswell/Broadwell-EP) family processors with Wellsburg PCH. They utilise features such as Enhanced Intel SpeedStep® Technology and whilst the motherboards support it, the Bios was purposely crippled preventing use of the advanced featureset. Using the standard bios, you will see references on boot that the CPU supports a number of advanced features but which cannot be enabled. A modded bios solves this problem and allows for the OS to throttle the processor frequency to conserve power.
+
+### Screenshots of the Unlocked Menus
+
+Unlocked features in sub-menu
+![Root Menu](https://github.com/ThePopolou/Lanner/blob/main/Screenshots/Screenshot%201.JPG)
+
+Unlocked *Advanced Power Management Configuration* sub-menu
+![Advanced Power Management Configuration](https://github.com/ThePopolou/Lanner/blob/main/Screenshots/Screenshot%202.JPG)
+
+Unlocked *Misceallaneous* sub-menu
+![Advanced Power Management Configuration](https://github.com/ThePopolou/Lanner/blob/main/Screenshots/Screenshot%203.JPG)
+
+Others are available
