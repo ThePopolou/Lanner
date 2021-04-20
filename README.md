@@ -21,7 +21,7 @@ The package includes: -
 	Project Version       0ACFL 0.23 x64
 	Build Date and Time   03/19/2018 14:-5:24
 
-Modified Bios file includes the following unlocks uinder the IntelRCSetup menu: -
+Modified Bios file includes the following unlocked features under the IntelRCSetup menu: -
 - Advanced Power Management Configuration
 - Miscellaneous Configuration
 
