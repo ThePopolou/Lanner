@@ -29,7 +29,7 @@ These appliances are dual CPU systems with the [Intel E5-2600 v3/v4](https://ark
 
 ### Screenshots of the Unlocked Menus
 
-Unlocked features in sub-menu
+Unlocked features in *IntelRCSetup* sub-menu
 ![Root Menu](https://github.com/ThePopolou/Lanner/blob/main/Screenshots/Screenshot%201.JPG)
 
 Unlocked *Advanced Power Management Configuration* sub-menu
