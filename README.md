@@ -9,7 +9,7 @@ Files for the Lanner FW-8894B &amp; FW-8895B range of appliances
 The last AMIBIOS release for the FW-8894B/FW-8895B network appliance. These devices are EOL and the files for it are hard to come by.
 
 The package includes: -
-  - the original Bios v2.17.1249 dated 03/19/2018
+  - the latest Bios available v2.17.1249 dated 03/19/2018
   - a modified Bios based on v2.17.1249 with additional features unlocked
 
 ## Package Details
