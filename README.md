@@ -3,7 +3,7 @@
 20 April 2021
 
 ## Description
-Files for the Lanner FW-8894B &amp; FW-8895B range of appliances
+Files for the Lanner FW-8894B &amp; FW-8895B range of appliances.
 
 ## Contents
 The last AMIBIOS release for the FW-8894B/FW-8895B network appliance. These devices are EOL and the files for it are hard to come by.
